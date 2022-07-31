@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding:0;
+
+}
+
+
+li, a, button {
+	font-family: "Montserrat", sant-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: black;
+	text-decoration: none;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 10%;
+	background-color: darkgrey;
+}
+.logo {
+	cursor: pointer;
+}
+.nav_links {
+	list-style: none;
+}
+
+h1 {
+	text-align: center;
+}
+.nav_links li {
+	display: inline-block;
+	padding: 0px 20px;
+}
+.nav-links li a {
+	transition: all 0.3s easy 0s;
+}
+.nav-links li a:hover {
+	color:lightblue;
+}
+button {
+	padding: 9px 25px;
+	background-color: rgb(54, 217, 217);
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: all 0.3s easy 0s;
+}
+button:hover {
+	background-color: lightskyblue;
+}
+.page-container {
+	position: relative;
+	min-height: 100vh;
+}
+
+footer {
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+	background-color: darkgray;
+}
+
+.style {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.style td, .style th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.style tr:nth-child(even){background-color: #f2f2f2;}
+
+.style tr:hover {background-color: #ddd;}
+
+.style th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}

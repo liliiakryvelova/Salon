@@ -2,7 +2,7 @@
 
 #### By _**{Liliia Kryvelova}**_
 
-https://github.com/liliiakryvelova/VendorAndOrder.git
+https://github.com/liliiakryvelova/Salon.git
 
 #### _{You've been referred by Pierre to his friend Claire who is the owner of a hair salon called Eau Claire's Salon. She has contracted you out to create an MVC web application to help her manage her employees (stylists) and their clients. Claire should be able to add a list of stylists working at the salon, and for each stylist, add clients who see that stylist. The stylists have specific specialties, so each client can only see (belong to) a single stylist.}_
 

@@ -1,10 +1,10 @@
-# _{Vendor and Order Tracker}_
+# Vendor and Order Tracker
 
-#### By _**{Liliia Kryvelova}**_
+#### By Liliia Kryvelova
 
 https://github.com/liliiakryvelova/Salon.git
 
-#### _{You've been referred by Pierre to his friend Claire who is the owner of a hair salon called Eau Claire's Salon. She has contracted you out to create an MVC web application to help her manage her employees (stylists) and their clients. Claire should be able to add a list of stylists working at the salon, and for each stylist, add clients who see that stylist. The stylists have specific specialties, so each client can only see (belong to) a single stylist.}_
+#### You've been referred by Pierre to his friend Claire who is the owner of a hair salon called Eau Claire's Salon. She has contracted you out to create an MVC web application to help her manage her employees (stylists) and their clients. Claire should be able to add a list of stylists working at the salon, and for each stylist, add clients who see that stylist. The stylists have specific specialties, so each client can only see (belong to) a single stylist.                
 
 ## Technologies Used
 
@@ -33,10 +33,10 @@ https://github.com/liliiakryvelova/Salon.git
 ## Setup/Installation Requirements
 
 * _Clone this git on your local computer *For clonning: use button Clone -> from repository. *Copy the clone command(SSH format or HTTPS)._
-* _From a terminal on your local computer, use command "cd" to find the directory where you want to clone this repository. *Type the command ($ git clone HTTPs)._
-* _If you clone successfully , a new sub-directory appears on your local computer. *For working with project, run : dotnet restore._
-* _In the next step, run: dotnet build._
-* _For running the project, run -> dotnet run(in the cmd or terminal)._ 
+* _From a terminal on your local computer, use command `cd` to find the directory where you want to clone this repository. *Type the command (`$ git clone` HTTPs)._
+* _If you clone successfully , a new sub-directory appears on your local computer. *For working with project, run : `dotnet restore`._
+* _In the next step, run: `dotnet build`._
+* _For running the project, run -> `dotnet run` (in the cmd or terminal)._ 
 
 
 
